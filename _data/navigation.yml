@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Posts"
+    url: /year-archive/ # Example link, you might want to change this later
+  - title: "About"
+    url: /about/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
